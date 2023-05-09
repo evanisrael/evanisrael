@@ -15,6 +15,6 @@
   <p>As a curious and creative individual, I enjoy exploring new ideas and finding innovative solutions to problems. I believe in continuous learning and improvement and am always looking for new challenges and opportunities to grow.</p>
   <h2 align="center">Let's Connect📫</h2>
   <p>Connect with me on <a href="https://www.linkedin.com/in/ivan-israel/">LinkedIn</a> to learn more about my professional experience and skills.</p>
-  <p>You can also reach me via <a href="mailto:kwentar@gmail.com">email</a>.</p>
+  <p>You can also reach me via <a href="mailto:me@ivanisrael.pro">email</a>.</p>
   
 
