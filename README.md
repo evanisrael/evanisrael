@@ -1,4 +1,4 @@
-  <h1 align="center">Greetings, I'm Ivan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1 align="center">Greetings, I'm Evan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <p align="center">A junior Frontend Developer currently studying at Yandex Practicum.</p>
   <h2 align="center">💻Skills💻</h2>
 
